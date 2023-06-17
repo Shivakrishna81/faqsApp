@@ -1,0 +1,23 @@
+/* Write your code here. */
+.listItem {
+  border-radius: 9px;
+  border-style: solid;
+  border-color: #d7dae6;
+  padding: 15px;
+  border-width: 1px;
+  margin-bottom: 10px;
+}
+.head {
+  color: rgba(0, 0, 0, 0.877);
+  font-size: 20px;
+}
+.sign {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+}
